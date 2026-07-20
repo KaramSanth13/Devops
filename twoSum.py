@@ -16,7 +16,7 @@ def twoSum(arr,n):
 def main():
     arr = [1,2,3,4,5]
     n = 8
-
+    print("Vanakkam Da Karameyy")
     print(twoSum(arr,n))
 
 if __name__ == "__main__":
