@@ -1,1 +1,2 @@
 This is an empty file just created to test the Jenkins Triggers works or not
+New line added
